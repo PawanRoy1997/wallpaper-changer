@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.nextxform.wallpaper"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.nextxform.wallpaper"
